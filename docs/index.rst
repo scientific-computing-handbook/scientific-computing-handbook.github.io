@@ -1,12 +1,15 @@
-.. include:: ../README.rst
+.. include:: ../README.md
 
-Welcome to SciComp's documentation!
-===================================
+Welcome to The Scientific Computing Handbook!
+=============================================
 
-**SciComp** is a Python library for ...
+The Scientific Computing Handbook is your definitive guide to 
+implementing algorithms for scientific computing in C++, Python, and 
+Julia
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Get started with the :doc:`preliminaries` or dive into any section of 
+this guide.
 
 .. note::
 
@@ -18,5 +21,5 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
+   preliminaries
+   data_fitting
