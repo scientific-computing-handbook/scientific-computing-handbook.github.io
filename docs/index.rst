@@ -1,4 +1,3 @@
-.. include:: ../README.md
 
 Welcome to The Scientific Computing Handbook!
 =============================================
