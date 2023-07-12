@@ -1,5 +1,5 @@
-Usage
-=====
+Data Fitting
+============
 
 Motivation
 ----------
