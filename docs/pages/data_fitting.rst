@@ -8,19 +8,19 @@ XXX
 
 .. tabs::
 
-    .. group-tab:: cpp code
+    .. group-tab:: c++
 
         .. literalinclude:: ../../cpp/hello_world.cpp
 			:language: c++
 			:linenos:
 
-    .. group-tab:: python code
+    .. group-tab:: python
 
         .. literalinclude:: ../../python/hello_world.py
 			:language: python
 			:linenos:
 
-    .. group-tab:: julia code
+    .. group-tab:: julia
 
         .. literalinclude:: ../../julia/hello_world.jl
 			:language: julia
