@@ -8,16 +8,11 @@ XXX
 
 .. tabs:: lang
 
-    .. code-tab:: bash
-
-        echo "Hello, *World*!"
-
     .. code-tab:: c
         :caption: C/C++
-        :emphasize-lines: 2
+        :linenos:
 
-        #include <stdio.h>
-        int main() { printf("Hello, *World*!\n"); }
+        .. literalinclude:: ../../python/hello_world.cpp
 
     .. code-tab:: python
 
