@@ -34,12 +34,12 @@ Interpolation
 
 XXX
 
-Linear Least squares
+Linear Least Squares
 --------------------
 
 XXX
 
-Nonlinear Least squares
+Nonlinear Least Squares
 -----------------------
 
 XXX
