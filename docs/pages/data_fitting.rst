@@ -6,15 +6,27 @@ Motivation
 
 XXX
 
-.. example-code::
+.. tabs:: lang
 
-	.. literalinclude:: ../../python/hello_world.py
-	  :language: python
-	  :linenos:
-	  
-	.. literalinclude:: ../../julia/hello_world.jl
-	  :language: julia
-	  :linenos:
+    .. code-tab:: bash
+
+        echo "Hello, *World*!"
+
+    .. code-tab:: c
+        :caption: C/C++
+        :emphasize-lines: 2
+
+        #include <stdio.h>
+        int main() { printf("Hello, *World*!\n"); }
+
+    .. code-tab:: python
+
+        print("Hello, *World*!")
+
+    .. tab:: Output
+        :selected:
+
+        Hello, *World*!
 	  
 XXX
 
