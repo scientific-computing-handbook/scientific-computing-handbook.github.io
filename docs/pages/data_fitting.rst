@@ -12,16 +12,17 @@ XXX
         :caption: C/C++
         :linenos:
 
-        .. literalinclude:: ../../python/hello_world.cpp
+        .. literalinclude:: ../../cpp/hello_world.cpp
 
     .. code-tab:: python
+		:linenos:
 
-        print("Hello, *World*!")
+        .. literalinclude:: ../../python/hello_world.py
 
-    .. tab:: Output
-        :selected:
+    .. code-tab:: julia
+        :linenos:
 
-        Hello, *World*!
+        .. literalinclude:: ../../julia/hello_world.jl
 	  
 XXX
 
