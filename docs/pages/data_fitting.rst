@@ -8,21 +8,27 @@ XXX
 
 .. tabs:: lang
 
-    .. code-tab:: c++
+    .. group-tab:: cpp code
         :caption: C/C++
         :linenos:
 
-        // .. literalinclude:: ../../cpp/hello_world.cpp
+        .. literalinclude:: ../../cpp/hello_world.cpp
+			:language: c++
+			:linenos:
 
-    .. code-tab:: python
+    .. group-tab:: python code
 		:linenos:
 
-        # .. literalinclude:: ../../python/hello_world.py
+        .. literalinclude:: ../../python/hello_world.py
+			:language: python
+			:linenos:
 
-    .. code-tab:: julia
+    .. group-tab:: julia code
         :linenos:
 
-        # .. literalinclude:: ../../julia/hello_world.jl
+        .. literalinclude:: ../../julia/hello_world.jl
+			:language: julia
+			:linenos:
 	  
 XXX
 
