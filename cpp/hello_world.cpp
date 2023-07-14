@@ -1,4 +1,4 @@
-// The Scientific Computing Hangbook, Philip Mocz, 2023
+// The Scientific Computing Handbook, Philip Mocz, 2023
 
 #include <iostream>
 
