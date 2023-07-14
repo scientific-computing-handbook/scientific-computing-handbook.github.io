@@ -8,21 +8,21 @@ XXX
 
 .. tabs:: lang
 
-    .. code-tab:: c
+    .. code-tab:: c++
         :caption: C/C++
         :linenos:
 
-    .. literalinclude:: ../../cpp/hello_world.cpp
+        // .. literalinclude:: ../../cpp/hello_world.cpp
 
     .. code-tab:: python
 		:linenos:
 
-    .. literalinclude:: ../../python/hello_world.py
+        # .. literalinclude:: ../../python/hello_world.py
 
     .. code-tab:: julia
         :linenos:
 
-    .. literalinclude:: ../../julia/hello_world.jl
+        # .. literalinclude:: ../../julia/hello_world.jl
 	  
 XXX
 
