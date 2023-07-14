@@ -26,7 +26,7 @@ author = "Philip Mocz"
 # -- General configuration
 
 extensions = [
-    "sphinx.ext.duration",
+    "sphinx.ext.imgmath",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
