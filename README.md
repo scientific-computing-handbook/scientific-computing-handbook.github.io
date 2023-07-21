@@ -5,14 +5,15 @@
 
 Your definitive guide to implementing algorithms for scientific computing in C++, Python, and Julia
 
-Created by Philip Mocz (2023), follow me on Twitter [@PMocz](https://twitter.com/PMocz)
-
-
-![The Scientific Computing Handbook](logo.gif)
+Created by Philip Mocz (2023), follow me on [Twitter](https://twitter.com/PMocz) and [Medium](https://medium.com/@philip-mocz)
 
 [+++ Enter +++](https://scientific-computing-handbookgithubio.readthedocs.io/en/latest/)
 
-(currently under development ... check back soon!!!)
+(Currently under development and not yet released ... check back soon!!!)
+
+![The Scientific Computing Handbook](logo.gif)
+
+
 
 ---
 
